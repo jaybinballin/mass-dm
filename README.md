@@ -21,6 +21,6 @@ Server Mass DM 2021
 ------    
 
 <p align="center">
-  Forever 1800 | <a href="https://discord.gg/moncler">join</a>
+  <a href="https://discord.gg/moncler">Forever 1800</a>
   
 ------  
