@@ -21,7 +21,7 @@ Server Mass DM 2021
 ------    
 
 <p align="center">  
-  <img src="https://media.giphy.com/media/vZTW4TjAgxUW3gmyxL/giphy.gif" alt="Avatar">
+  <img src="https://media.giphy.com/media/xfn8etZCMPWQo/giphy.gif" alt="Avatar">
 </p>  
 <p align="center">
 Forever 1800
