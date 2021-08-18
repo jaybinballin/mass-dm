@@ -17,7 +17,6 @@ os.system('clear')
 
 intents = discord.Intents.all()
 intents.members = True
-members = []
 client = commands.Bot(command_prefix='tsu', intents=intents)
 
 class Tsu:
