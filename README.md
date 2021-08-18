@@ -19,12 +19,8 @@ Server Mass DM 2021
 <p align="center">  
   
 ------    
-  
-<p align="center">  
-  <img src="https://media.giphy.com/media/vZTW4TjAgxUW3gmyxL/giphy.gif" alt="Avatar">
-</p>
 
 <p align="center">
-Forever 1800
+  Forever 1800 | <a href="https://discord.gg/moncler">join</a>
   
 ------  
