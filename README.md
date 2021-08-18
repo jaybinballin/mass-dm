@@ -24,3 +24,12 @@ Server Mass DM 2021
   <a href="https://discord.gg/moncler">Forever 1800</a>
   
 ------  
+
+<p align="center">
+  Server Mass DM Made For Og! Join His Server And Add Him!
+<p align="center">
+  <a href = "https://discord.gg/stendo">Stendo</a>
+  ・
+  <a href = "https://discord.gg/gatti">Gatti</a>
+  ・
+  <a href = "https://discord.com/users/834906773025718322">Og</a>
