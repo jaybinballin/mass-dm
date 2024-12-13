@@ -26,7 +26,7 @@ Server Mass DM 2021
 ------  
 
 <p align="center">
-  Server Mass DM Made For Og! Join His Server And Add Him!
+  Server mass dm for Og (doesn't work)
 <p align="center">
   <a href = "https://discord.gg/stendo">Stendo</a>
   ・
